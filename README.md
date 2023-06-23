@@ -28,7 +28,7 @@ Leandro</a></h1>
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/leancorv" target="_blank"><img src="https://img.shields.io/badge/-Leandro_Corvalan-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/leancorv" target="_blank"><img src="https://img.shields.io/badge/-Leandro_Corvalan-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://t.me/leancorv" target="_blank"><img src="https://img.shields.io/badge/-Leandro_Corvalan-pink?logo=telegram&textColor=white&style=flat-square" alt="telegram"/></a>
+<a href="https://t.me/leancorv" target="_blank"><img src="https://img.shields.io/badge/-Leandro_Corvalan-blue?logo=telegram&textColor=white&style=flat-square" alt="telegram"/></a>
 <a href="mailto:leancorv@gmail.com"><img src="https://img.shields.io/badge/-leancorv@gmail.com-black?logo=gmail&style=flat-square" alt="gmail"/></a>
 <br/><br/>
 </div>
