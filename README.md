@@ -12,7 +12,7 @@ Leandro</a></h1>
 ## 👨🏻‍💻 &nbsp;About Me
 
 📱 &nbsp;Mobile App developer.\
-🌱 &nbsp;I'm currently studying Computer Science the University of Buenos Aires.\
+🌱 &nbsp;I'm currently studying Computer Science at the University of Buenos Aires.\
 💻 &nbsp;I’m currently working on Flutter, Android, Kotlin, Dart!!\
 ✍️ &nbsp;I’m looking to collaborate on Android/IOS development.\
 
