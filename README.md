@@ -1,7 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a align="center" href="https://leancorv.ar/" target="blank">
-<img src="https://res.cloudinary.com/dia0mugvi/image/upload/v1687490641/Thumbnail_djlfqv.jpg">
+<img src="https://res.cloudinary.com/dia0mugvi/image/upload/fl_preserve_transparency/v1715810899/ThumbnailSEO_3_avk5kk.jpg">
 </a>
 <h1 align="center">Hi 👋, I'm <a href="https://leancorv.ar/" target="blank">
 Leandro</a></h1>
@@ -11,7 +11,7 @@ Leandro</a></h1>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-📱 &nbsp;Mobile App developer.\
+📱 &nbsp;Software developer.\
 🌱 &nbsp;I'm currently studying Computer Science at the University of Buenos Aires.\
 💻 &nbsp;I’m currently working on Flutter, Android, Kotlin, Dart!!\
 ✍️ &nbsp;I’m looking to collaborate on Android/IOS development.\
