@@ -1,3 +1,4 @@
+<img src="https://images.unsplash.com/photo-1690627931320-16ac56eb2588?q=80&w=1493&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm <a href="https://leancorv.pro/" target="blank">Leandro</a></h1>
@@ -7,11 +8,11 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-[cite_start]☁️ &nbsp;**DevOps Trainee & Cloud Enthusiast.** 
-[cite_start]🌱 &nbsp;Currently studying **Computer Science at the University of Buenos Aires (UBA)**. [cite: 88, 89]
-[cite_start]🚀 &nbsp;Focusing on **Automation, Infrastructure as Code (Terraform), and Containerization (Docker)**. 
-[cite_start]💻 &nbsp;Solid background in Software Development (Web & Mobile). [cite: 85, 107]
-[cite_start]✍️ &nbsp;I’m looking to collaborate on Cloud-native projects and DevOps automation. [cite: 84, 86]
+☁️ &nbsp;**DevOps Trainee & Cloud Enthusiast.** 
+🌱 &nbsp;Currently studying **Computer Science at the University of Buenos Aires (UBA)**. 
+🚀 &nbsp;Focusing on **Automation, Infrastructure as Code (Terraform), and Containerization (Docker)**. 
+💻 &nbsp;Solid background in Software Development (Web & Mobile). 
+✍️ &nbsp;I’m looking to collaborate on Cloud-native projects and DevOps automation. 
 
 ## 💻 My Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> 
 <p align="center">
