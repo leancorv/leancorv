@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1690627931320-16ac56eb2588?q=80&w=1493&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEVA3GU3mnj6g/profile-displaybackgroundimage-shrink_350_1400/B4DZvkDCvNGUAc-/0/1769057565350?e=1770854400&v=beta&t=Gw2Y1veLDq_77Ugcl4StHC17PJgflS9srnk_wKBu_m4">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm <a href="https://leancorv.pro/" target="blank">Leandro</a></h1>
