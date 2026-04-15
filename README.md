@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dia0mugvi/image/upload/fl_preserve_transparency/v1776227072/ThumbnailSEO-1_borx7p.jpg" width="40%">
+<img src="https://res.cloudinary.com/dia0mugvi/image/upload/fl_preserve_transparency/v1776227072/ThumbnailSEO-1_borx7p.jpg" width="60%" align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm <a href="https://leancorv.cloud/" target="blank">Leandro</a></h1>
