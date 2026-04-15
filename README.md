@@ -8,11 +8,11 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-[cite_start]📊 &nbsp;**Data Science Student at the University of Buenos Aires (UBA)**[cite: 138, 191].
-[cite_start]💻 &nbsp;**Software Developer** with a focus on building systems that bridge the gap between data and production[cite: 160, 186].
-[cite_start]☁️ &nbsp;Passionate about **Cloud Architectures (GCP/AWS)** and the **MLOps** ecosystem[cite: 110, 160, 188].
-[cite_start]🚀 &nbsp;Focusing on **Automation, Containerization (Docker), and Infrastructure as Code (Terraform)**[cite: 119, 171].
-[cite_start]✍️ &nbsp;Currently developing projects like **Anatomía del Gol** and **Calendario Goles Messi**.
+📊 &nbsp;**Data Science Student at the University of Buenos Aires (UBA)**. <br>
+💻 &nbsp;**Software Developer** with a focus on building systems that bridge the gap between data and production. <br>
+☁️ &nbsp;Passionate about **Cloud Architectures (GCP/AWS)** and the **MLOps** ecosystem. <br>
+🚀 &nbsp;Focusing on **Automation, Containerization (Docker), and Infrastructure as Code (Terraform)**. <br>
+✍️ &nbsp;Currently developing projects like **Anatomía del Gol** and **Calendario Goles Messi**. <br>
 
 ## 💻 My Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> 
 <p align="center">
@@ -22,8 +22,8 @@
 </p>
 
 ## ⚽ Featured Projects
-* [cite_start]**[Anatomía del Gol](https://anatomiagolmessi.streamlit.app/)**: Interactive dashboard for statistical analysis of +800 goals using Python and Streamlit[cite: 148, 201, 204].
-* [cite_start]**[Calendario Goles Messi](https://calendario-goles-messi.vercel.app/)**: Full-stack platform for real-time sports data management with Vanilla JS[cite: 152, 205, 208].
+* **[Anatomía del Gol](https://anatomiagolmessi.streamlit.app/)**: Interactive dashboard for statistical analysis of +800 goals using Python and Streamlit.
+* **[Calendario Goles Messi](https://calendario-goles-messi.vercel.app/)**: Full-stack platform for real-time sports data management with Vanilla JS.
 
 <div align="center">
 <h3>Contact Me :handshake:</h3>
