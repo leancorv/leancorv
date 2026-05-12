@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dia0mugvi/image/upload/fl_preserve_transparency/v1776227072/ThumbnailSEO-1_borx7p.jpg" width="60%"></p>
+<p align="center"><img src="https://res.cloudinary.com/dia0mugvi/image/upload/fl_preserve_transparency/v1778572813/Thumbnail-SEO-1" width="60%"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm <a href="https://leancorv.cloud/" target="blank">Leandro</a></h1>
@@ -10,8 +10,8 @@
 
 📊 &nbsp;**Data Science Student at the University of Buenos Aires (UBA)**. <br>
 💻 &nbsp;**Software Developer** with a focus on building systems that bridge the gap between data and production. <br>
-☁️ &nbsp;Passionate about **Cloud Architectures (GCP/AWS)** and the **MLOps** ecosystem. <br>
-🚀 &nbsp;Focusing on **Automation, Containerization (Docker), and Infrastructure as Code (Terraform)**. <br>
+☁️ &nbsp;Passionate about **AI & Data Automation** and the **MLOps** ecosystem. <br>
+🚀 &nbsp;Focusing on **modeling real systems and optimizing decision-making through data analysis and the construction of scalable infrastructure**. <br>
 ✍️ &nbsp;Currently developing projects like **Anatomía del Gol** and **Calendario Goles Messi**. <br>
 
 ## 💻 My Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> 
