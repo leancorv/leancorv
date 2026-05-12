@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://leancorv.cloud/" target="blank">Leandro</a></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=3B82F6&size=25&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Student+(UBA);Software+Developer;Cloud+%26+MLOps+Enthusiast;Analytical+Problem+Solver"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=3B82F6&size=25&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Student+(UBA);Software+Developer;AI+%26+Data+Automation;Analytical+Problem+Solver"></a>
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me
